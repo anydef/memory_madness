@@ -13,6 +13,18 @@ config_version=5
 config/name="Memory Madness"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 
+[autoload]
+
+SoundManager="*res://globals/sound_manager.gd"
+SignalHub="*res://globals/signal_hub.gd"
+ImageManager="*res://globals/image_manager.gd"
+
+[display]
+
+window/size/viewport_width=1024
+window/size/viewport_height=768
+window/stretch/mode="canvas_items"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
