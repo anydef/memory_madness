@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwk6u5y2pxr2"
-path="res://.godot/imported/npc_dumbbot_variant_widgetGreen_x1_move_png_1354836794.png.png-5062d32b0518fa4c45c133d3cf6f52f1.ctex"
+path="res://.godot/imported/npc_dumbbot_variant_widgetGreen_x1_move_png_1354836794.png-4d1baf13683999962e7535e3758c735f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/glitch/npc_dumbbot_variant_widgetGreen_x1_move_png_1354836794.png.png"
-dest_files=["res://.godot/imported/npc_dumbbot_variant_widgetGreen_x1_move_png_1354836794.png.png-5062d32b0518fa4c45c133d3cf6f52f1.ctex"]
+source_file="res://assets/glitch/npc_dumbbot_variant_widgetGreen_x1_move_png_1354836794.png"
+dest_files=["res://.godot/imported/npc_dumbbot_variant_widgetGreen_x1_move_png_1354836794.png-4d1baf13683999962e7535e3758c735f.ctex"]
 
 [params]
 

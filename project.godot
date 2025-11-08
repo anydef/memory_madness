@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Memory Madness"
+run/main_scene="uid://dtphlit87s0av"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 
 [autoload]
@@ -18,6 +19,10 @@ config/features=PackedStringArray("4.5", "GL Compatibility")
 SoundManager="*res://globals/sound_manager.gd"
 SignalHub="*res://globals/signal_hub.gd"
 ImageManager="*res://globals/image_manager.gd"
+
+[debug]
+
+gdscript/warnings/integer_division=0
 
 [display]
 
